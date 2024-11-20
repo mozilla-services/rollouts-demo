@@ -5,8 +5,6 @@ set -x -e
 strings=(
     "red"
     "orange"
-    "yellow"
-    "green"
     "blue"
     "purple"
 )
